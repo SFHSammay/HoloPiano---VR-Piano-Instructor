@@ -1,0 +1,16 @@
+*.VRClient/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+VRClient/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+<<<<<<< HEAD
+ArtifactDB filter=lfs diff=lfs merge=lfs -text
+=======
+Library/* filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 809ecee734d599273a04108d765716644fca84b9
+Library/* filter=lfs diff=lfs merge=lfs -text
+VRClient/Library/* filter=lfs diff=lfs merge=lfs -text
+VRClient/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 0576f2be19de621e1f59aae82034706e7c4336dd
+Library/* filter=lfs diff=lfs merge=lfs -text
