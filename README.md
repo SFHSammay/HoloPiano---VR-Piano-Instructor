@@ -1,14 +1,6 @@
 # HoloPiano: VR Piano Instructor
 This is the project for **Computer Science and Engineering Projects (II), NYCU**.
-
-Title: **Real-Time Interactive VR System – Remote Piano Classroom**
-
-## Authors
-Syuan-Fu Hwang
-
-Yu-Chun Lin
-
-Ting-Yu Chou
+Full system design and detailed documentation: https://gist.github.com/Lin775533/b3cd1abfd43109e1ea6239e942265da0
 
 ## Overview
 "Real-Time Interactive VR System – Remote Piano Classroom", or "HoloPiano", is a VR piano learning platform that combines MediaPipe hand tracking with Unity3D physics simulation, featuring real-time hand visualization and asynchronous data streaming between Android and VR clients through a hybrid TCP/UDP server architecture.
@@ -39,6 +31,3 @@ Ting-Yu Chou
 git clone https://github.com/SFHSammay/HoloPiano---VR-Piano-Instructor.git
 
 ```
-
-## Future Improvements
-1. Improve visual environment
